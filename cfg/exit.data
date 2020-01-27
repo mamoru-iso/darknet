@@ -1,5 +1,5 @@
 classes= 1
-train  = cfg/exit-train.txt
-valid  = cfg/exit-test.txt
-names = data/exit.names
-backup = backup
+train  = /content/darknet/cfg/exit-train.txt
+valid  = /content/darknet/cfg/exit-test.txt
+names = /content/darknet/data/exit.names
+backup = /content/darknet/backup
